@@ -123,7 +123,7 @@ You have file options.
     <i>Reply to a supported media(video and documents).</i>
  3. Play from a YouTube playlist
     Command: <b>/yplay</b>
-    <i>First get a playlist file from @GetPlaylistBot or @DumpPlaylist and reply to playlist file.</i>
+    <i>First get a playlist file and reply to playlist file.</i>
  4. Live Stream
     Command: <b>/stream</b>
     <i>Pass a live stream url or any direct url to play it as stream.</i>
@@ -174,7 +174,7 @@ These are commands to control player.
     <i>Set a new config var or change existing one or delete existing one. Example: /env CHAT=-100120202002 to change(if exist else set as new) CHAT config to -100120202002. If no value is passed, the var will be deleted. Example /env REPLY_MESSAGE= , this will delete the REPLY_MESSAGE var.</i>
 
 <b>How Can I Stream In My Group</b>
-  <i>The source code of this bot is public and can be found at <a href=https://github.com/subinps/VCPlayerBot>VCPlayerBot.</a>\nYou can deploy your own bot and use in your group.</i>
+  <i>The source code of this bot is public and can be found at <a href=https://t.me/sourcecodeveno>VCPlayerBot.</a>\nYou can deploy your own bot and use in your group.</i>
 
 """
 
